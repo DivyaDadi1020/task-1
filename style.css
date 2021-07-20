@@ -1,0 +1,61 @@
+    body{
+			font-family: 'Lora', serif;
+            overflow-x: hidden;
+            background-color: #1a0033 ;
+		}
+		 td,th {
+            text-align: center;
+            padding: 8px;
+             }
+
+        th{
+            color: yellow;
+        }
+    
+        table{
+            border-collapse: collapse;
+            width: 60%;
+            position: static;
+            text-align: center;
+            font-size: 20px;
+            color: white;
+        }
+       
+       button{
+        padding: 15px 25px;
+          font-size: 24px;
+          text-align: center;
+          cursor: pointer;
+          outline: none;
+          color: #fff;
+          background-color: purple;
+          border: none;
+          border-radius: 15px;
+          box-shadow: 0 9px #999;
+          text-decoration: none;
+       }
+
+       a{
+        text-decoration: none;
+        color:white ;
+       }
+       
+       .button1{
+        padding: 15px 25px;
+          font-size: 24px;
+          text-align: center;
+          cursor: pointer;
+          outline: none;
+          color: #fff;
+          background-color: yellow;
+          border: none;
+          border-radius: 15px;
+          box-shadow: 0 9px #999;
+          text-decoration: none;
+          color:white;
+       }
+
+       .button1:hover{
+        background-color: green;
+        text-decoration: none;
+       }
